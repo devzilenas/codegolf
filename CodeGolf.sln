@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGolf", "CodeGolf\CodeGolf.csproj", "{8ED264A0-AA9F-4FCE-997A-067EA81A7581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDestruction", "MathDestruction\MathDestruction.csproj", "{F1154278-15A2-49E0-B7CD-6983232331F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED264A0-AA9F-4FCE-997A-067EA81A7581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED264A0-AA9F-4FCE-997A-067EA81A7581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED264A0-AA9F-4FCE-997A-067EA81A7581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED264A0-AA9F-4FCE-997A-067EA81A7581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1154278-15A2-49E0-B7CD-6983232331F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1154278-15A2-49E0-B7CD-6983232331F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1154278-15A2-49E0-B7CD-6983232331F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1154278-15A2-49E0-B7CD-6983232331F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
